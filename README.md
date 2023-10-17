@@ -25,7 +25,7 @@ This guide considers you have Node 16 or 18 installed and you are doing all thin
 
 ##### Step 1 - Make a new directory (Name is changable)
 ```bash
-  mkdir -p UnknownVPS
+  mkdir -p Hapow
 ```
 ##### Step 2 - Install curl (or any package) to get files.
 ```bash
@@ -33,7 +33,7 @@ This guide considers you have Node 16 or 18 installed and you are doing all thin
 ```
 ##### Step 3 - Change Directory
 ```bash
-  cd UnknownVPS
+  cd Hapow
 ```
 ##### Step 4 - Get the package.json
 ```bash
