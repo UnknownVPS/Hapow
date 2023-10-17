@@ -97,7 +97,7 @@ This guide considers you have Node 16 or 18 installed and you are doing all thin
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `email`      | `string` | **Required**. Email of user to create. |
+| `email`      | `string` | **Required**. Email of user to verify. |
 | `discordId`      | `string` | **Required**. Discord Id of user to verify. |
 
 ```http
