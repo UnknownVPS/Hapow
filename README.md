@@ -1,7 +1,7 @@
 
-# UnknownVPS API
+# Hapow
 
-Application Programming Interface (API) for UnknownVPS and can be used for various other purposes as well. 
+Application Programming Interface (API) for VPS Creation and can be used for various other purposes as well. 
 
 Brought by UnknownVPS Team
 
@@ -37,11 +37,11 @@ This guide considers you have Node 16 or 18 installed and you are doing all thin
 ```
 ##### Step 4 - Get the package.json
 ```bash
-  curl -Lo package.json "https://github.com/unknownpersonog/unknownvps-v2/raw/master/package.json"
+  curl -Lo package.json "https://github.com/unknownvps/hapow/raw/master/package.json"
 ```
 ##### Step 5 - Get updater.js
 ```bash
-  curl -Lo updater.js "https://github.com/unknownpersonog/unknownvps-v2/raw/master/updater.js"
+  curl -Lo updater.js "https://github.com/unknownvps/hapow/raw/master/updater.js"
 ```
 ##### Step 6 - Install Dependencies
 ```bash
